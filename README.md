@@ -1,2 +1,2 @@
 # Intelligent_Mode_locking
-This is a control project for an intelligent mode-locking fiber laser.
+This is a control program for an intelligent mode-locking fiber laser.
